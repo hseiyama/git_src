@@ -27,5 +27,4 @@ else:
 
 cv2.imwrite('detected.jpg', img)
 
-#Add Comment (2)
-
+#Add Comment (3)
